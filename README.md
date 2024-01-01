@@ -1,1 +1,1 @@
-Hi, This is my Repo for all DevOps realted Stuff.
+Hi, This is my Repo for all DevOps related Stuff.
